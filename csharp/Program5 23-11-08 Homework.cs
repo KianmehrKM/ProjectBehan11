@@ -10,7 +10,7 @@ namespace ConsoleApplication6
     {
         static void Main(string[] args)
         {
-            int number, i, ii;
+            int number, i, ii; //ii is for the 2nd ring.
             float fact = 1;
             float sum = 0;
 
