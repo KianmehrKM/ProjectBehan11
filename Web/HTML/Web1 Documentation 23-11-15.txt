@@ -1,0 +1,17 @@
+Here's a very low effort documentation about the HTML file put together so you can know what is happening.
+
+<html> // Every HTML document starts with this.
+    <head> // Every metadata about the website goes here!
+        <meta keywords = "Football, Daei" author = "Kianemhr Kimiavi">
+        // "meta" tells us about the HTML file.
+        <title>Ali Daei Website</title>
+        // "title" has the title of the website.
+    </head>
+<body bgcolor = "pink" text = "blue"> // You can insert some stuff about the body or the things we want to show in the page in here.
+    <h1>Hello World!</h1> // "h1" is a heading that you can insert in your page, "h1" having the largest size and "h6" having the smallest.
+    <h6>Here we are, designing a website.</h6>
+    <font face = "Arial" color = "yellow" size = "85">My name is Prof. SamieZad</font> // We can use "font" and also enter the metadata for it to show a text in another font, size or color.
+    Bye all // Random text.
+    AAAAAAA
+</body> // After we are done, we insert this at the end.
+</html> // And this one as well.
