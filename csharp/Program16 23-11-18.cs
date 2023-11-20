@@ -21,11 +21,13 @@ class Program
             Console.WriteLine();
             i++;
         }
+
+        Console.ReadKey();
     }
 }
 
 /* This is the code for the following output:
- * Number: 9 (as an exmaple)
+ * Number: 9 (as an example)
  * Output:
  * 123456789
  * 12345678
