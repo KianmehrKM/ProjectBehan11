@@ -28,6 +28,8 @@ class Program
 
             number++;
         }
+
+        Console.ReadKey();
     }
 }
 
